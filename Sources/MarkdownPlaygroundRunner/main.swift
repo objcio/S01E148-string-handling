@@ -1,0 +1,3 @@
+import MarkdownPlayground
+
+runApplication()
